@@ -1,6 +1,6 @@
 This is a little edit of prsnl10 template.
 
-Author: Alessandro Lorenzi <alorenzi@extraordy.com>
+Author: Alessandro Lorenzi <alessandro.lorenzi@gmail.com>
 
 INSTALL
 =======
