@@ -1,0 +1,45 @@
+/* en: Place for user defined CSS rules (screen media) - this file can safely be
+   preserved when updating. See README for details.
+
+   de: Ort für benutzerdefinierte CSS-Regeln (screen media) - Diese Datei kann
+   beim Durchführen von Updates ohne Risiko beibehalten werden. Konsultieren Sie
+   die README für Detailinformationen. */
+
+
+@import url(http://fonts.googleapis.com/css?family=Cabin+Sketch:700);
+
+
+a{
+	color:#444;
+}
+
+body{
+        background-color: transparent;
+        font-family: "Trebuchet MS",Helvetica,Jamrul,sans-serif;
+}
+.dokuwiki{
+        background-color:white;
+        padding: 20px;
+        box-shadow:  0px 0px 10px  #333;
+        margin-top: 50px;
+
+}
+
+#tmpl_header{
+        background:url(/gray33.png);
+        margin-bottom:0px;
+        border:0px;
+}
+
+#tmpl_header_left{
+        padding-left: 20px
+}
+
+#tmpl_header_right{
+        display: none;
+}
+
+.toc{
+        display: none;
+}
+
